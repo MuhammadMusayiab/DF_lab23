@@ -1,7 +1,7 @@
-21k-4760
-Muhammad Musayiab
+**21k-4760**
+**Muhammad Musayiab**
 
-Question no 1:
+**Question no 1:**
 
 Part a) Mouse double click speed : 500
 
@@ -13,7 +13,7 @@ Part c) Registry file: Value: Malware (RegSz)
 Data: C:\Users\w\Desktop\malware.exe
 Slack: 00-00-78-00-65-00
 
-Question no 2:
+**Question no 2:**
 
 Part a) Username: hackerman
 	   b) password: sup3rs3cur3p4ssw0rd
@@ -21,7 +21,7 @@ Part b) What’s the most frequently visited website? (amazon.com)
 Part c) download :  pyhton downlooad.
 
 
-Question no 3:
+**Question no 3:**
 
 Part a) Log Name:      Microsoft-Windows-PowerShell/Operational
 Source:        Microsoft-Windows-PowerShell
